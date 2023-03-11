@@ -1,0 +1,4 @@
+﻿  texture.cpp
+C:\Users\qqstj\source\repos\opengl_monkeyhead3\opengl_monkeyhead4\texture.cpp(7,30): warning C4101:  'numComponents': unreferenced local variable
+C:\Users\qqstj\source\repos\opengl_monkeyhead3\opengl_monkeyhead4\texture.cpp(33): error C4700:  uninitialized local variable 'height' used
+C:\Users\qqstj\source\repos\opengl_monkeyhead3\opengl_monkeyhead4\texture.cpp(33): error C4700:  uninitialized local variable 'width' used
